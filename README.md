@@ -9,7 +9,7 @@
 | Product Owner | Deval Mevada|
 | Scrum Master | Tej Bahadur Shrestha|
 | Developer | Meet Bhadehsia |
-| Developer | |
+| Developer |Rohan Pandey|
 | Developer | |
 
 ## Project Overview
