@@ -6,7 +6,7 @@
 
 | Role | Name |
 |---|---|
-| Product Owner | Deval |
+| Product Owner | Deval Mevada|
 | Scrum Master | Tej Bahadur Shrestha|
 | Developer | Meet Bhadehsia |
 | Developer | |
