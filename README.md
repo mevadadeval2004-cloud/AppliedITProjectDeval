@@ -10,7 +10,7 @@
 | Scrum Master | Tej Bahadur Shrestha|
 | Developer | Meet Bhadehsia |
 | Developer |Rohan Pandey|
-| Developer | |
+| Developer | Dev Desai|
 
 ## Project Overview
 
